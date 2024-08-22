@@ -1,5 +1,15 @@
 # Amazon UI Clone
 
+## Table of Contents
+- [Preview Images](#preview-images)
+- [Features](#features)
+- [File Structure](#file-structure)
+- [Images](#images)
+- [How to Use](#how-to-use)
+- [Important Notes](#important-notes)
+
+## Preview Images
+
 ![Navigation Bar and Hero Section](preview/one.png)
 ![Product Section](preview/two.png)
 ![Footer Section](preview/three.png)
