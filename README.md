@@ -50,3 +50,4 @@ Place the following images in the `images/` directory:
 
 - **Non-Responsive Layout:** This layout is designed for desktop view and does not include responsive features for mobile or tablet devices.
 - **Static Design:** This project is a static layout and does not include any dynamic features like user authentication, database interaction, or real-time updates.
+**Disclaimer:** This project is a UI clone of the Amazon website created for educational purposes only. It is not an official Amazon website and is not affiliated with or endorsed by Amazon.com, Inc. or its subsidiaries.
