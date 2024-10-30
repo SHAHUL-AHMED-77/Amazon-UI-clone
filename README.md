@@ -8,9 +8,6 @@
 - [How to Use](#how-to-use)
 - [Important Notes](#important-notes)
 
-## Live Demo
-Check out the live demo [here](https://shahul-ahmed-77.github.io/Amazon-UI-clone/).
-
 ## Preview Images
 
 ![Navigation Bar and Hero Section](preview/one.png)
